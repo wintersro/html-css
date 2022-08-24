@@ -1,0 +1,14 @@
+@charset "UTF-8";
+
+/* 
+  em HTML é id    = em CSS é #
+  em HTML é class = em CSS é .
+
+*/ 
+body {
+    background-color: rgb(126, 241, 142);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+
+h1#principal {text-align: center; background-color:yellowgreen}
+
+h5.destaque { background-color: brown;}
